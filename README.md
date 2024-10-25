@@ -13,4 +13,4 @@ Contato
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltzzzs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltzzzs&langs_count=5)
